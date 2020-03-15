@@ -1,0 +1,4 @@
+Build Instructions 
+g++ -std=c++11 tests.cpp
+Run .Exe 
+a.exe 

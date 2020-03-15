@@ -1,0 +1,20 @@
+﻿  matrix.cpp
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(47,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(50,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(72,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(75,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(89,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\matrix.cpp(91,27): warning C4018: '<': signed/unsigned mismatch
+  Matrix_Class.cpp
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\Matrix_Class.cpp(12,51): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\Matrix_Class.cpp(40,50): warning C4305: 'argument': truncation from 'double' to 'const _Ty'
+          with
+          [
+              _Ty=float
+          ]
+  Generating Code...
+  Matrix_Class.vcxproj -> C:\Users\nmazzilli24\Documents\Udacity\Intro_to_Self_Driving_Cars_Nanodegree\Cpp_Basics\Matrix_Class\Debug\Matrix_Class.exe
